@@ -26,7 +26,7 @@ https://agent.ai/agent/rpil9bfunnz62xce
 
 
 ## screenshots
-*"C:\Users\pdhat\Pictures\Screenshots\Screenshot (35).png"
+"C:\Users\pdhat\Pictures\Screenshots\Screenshot (35).png"
 
 ## Author
 
