@@ -24,9 +24,13 @@ https://agent.ai/agent/rpil9bfunnz62xce
 * Problem Solving
 * Workflow Design
 
+  ## scrrenshots
+  <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/df46f568-44a4-4b45-9135-39dc42470bf6" />
 
-## screenshots
-"C:\Users\pdhat\Pictures\Screenshots\Screenshot (35).png"
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/3252e8ca-1d0d-4a29-a08b-9797db12c920" />
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/0761cfa6-89d9-48c1-ba8f-457335dfc11e" />
+
+
 
 ## Author
 
