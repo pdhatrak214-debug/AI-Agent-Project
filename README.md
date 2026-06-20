@@ -24,6 +24,10 @@ https://agent.ai/agent/rpil9bfunnz62xce
 * Problem Solving
 * Workflow Design
 
+
+## screenshots
+*"C:\Users\pdhat\Pictures\Screenshots\Screenshot (35).png"
+
 ## Author
 
 Puja Dhatrak
